@@ -1,0 +1,7 @@
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.AssemblyReference.cache
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfoInputs.cache
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.AssemblyInfo.cs
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.csproj.CoreCompileInputs.cache
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mechi\Desktop\octavo semestre\Desarrollo web\ProyectoFinal\ClientesAPI\obj\Debug\net8.0\ClientesAPI.MvcApplicationPartsAssemblyInfo.cache
